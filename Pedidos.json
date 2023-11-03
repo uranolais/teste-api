@@ -1,0 +1,20 @@
+{
+    "pedidos": [
+        {
+            "Prato": "macarrao",
+            "Bebida": "coca"
+        },
+        {
+            "Prato": "sushi",
+            "Bebida": "agua"
+        },
+        {
+            "Prato": "pastel",
+            "Bebida": "caldo de cana"
+        },
+        {
+            "Prato": "peixe",
+            "Bebida": "suco"
+        }
+    ]
+}

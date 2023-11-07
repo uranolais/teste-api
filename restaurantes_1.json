@@ -1,0 +1,6890 @@
+[
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hamburger",
+        "price":56.49,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cheeseburger",
+        "price":44.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Double Cheeseburger",
+        "price":33.49,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McDouble",
+        "price":59.49,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":" Quarter Pounder\u00ae with Cheese",
+        "price":54.83,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Double Quarter Pounder\u00ae with Cheese",
+        "price":49.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big Mac\u00ae",
+        "price":34.27,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big N\u2019 Tasty\u00ae",
+        "price":30.55,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big N\u2019 Tasty\u00ae with Cheese",
+        "price":59.75,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Bacon & Cheese",
+        "price":45.97,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Deluxe",
+        "price":54.67,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Mushroom & Swiss",
+        "price":54.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Filet-O-Fish\u00ae",
+        "price":32.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McChicken \u00ae",
+        "price":49.32,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McRib \u00ae",
+        "price":39.36,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Grilled Chicken Classic Sandwich",
+        "price":53.88,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Crispy Chicken Classic Sandwich",
+        "price":52.27,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Grilled Chicken Club Sandwich",
+        "price":40.69,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Crispy Chicken Club Sandwich",
+        "price":32.21,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Grilled Chicken Ranch BLT Sandwich",
+        "price":55.95,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Crispy Chicken Ranch BLT Sandwich",
+        "price":34.34,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Southern Style Crispy Chicken Sandwich",
+        "price":45.79,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Ranch Snack Wrap\u00ae (Crispy)",
+        "price":44.83,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Ranch Snack Wrap\u00ae (Grilled)",
+        "price":37.75,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Honey Mustard Snack Wrap\u00ae (Crispy)",
+        "price":42.59,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Honey Mustard Snack Wrap\u00ae (Grilled)",
+        "price":46.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chipotle BBQ Snack Wrap\u00ae (Crispy)",
+        "price":48.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chipotle BBQ Snack Wrap\u00ae (Grilled)",
+        "price":53.3,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Bacon & Cheese Snack Wrap",
+        "price":47.35,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Chipotle BBQ Bacon",
+        "price":47.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Chipotle BBQ Bacon Snack Wrap",
+        "price":35.62,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Deluxe Snack Wrap",
+        "price":53.74,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Angus Mushroom & Swiss Snack Wrap",
+        "price":34.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mac Snack Wrap",
+        "price":59.15,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Small French Fries",
+        "price":46.26,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Medium French Fries",
+        "price":30.95,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Large French Fries",
+        "price":32.32,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Ketchup Packet",
+        "price":48.16,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Salt Packet",
+        "price":43.36,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chicken McNuggets\u00ae (4 piece)",
+        "price":47.42,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chicken McNuggets\u00ae (6 piece)",
+        "price":59.78,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chicken McNuggets\u00ae (10 piece)",
+        "price":55.27,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Barbeque Sauce",
+        "price":46.44,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Honey",
+        "price":32.01,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Mustard Sauce",
+        "price":35.23,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sweet \u2018N Sour Sauce",
+        "price":47.45,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chicken Selects\u00ae Premium Breast Strips (3 pc)",
+        "price":58.29,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chicken Selects\u00ae Premium Breast Strips (5 pc)",
+        "price":36.02,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Spicy Buffalo Sauce",
+        "price":41.33,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Creamy Ranch Sauce",
+        "price":42.79,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Tangy Honey Mustard Sauce",
+        "price":33.5,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Southwestern Chipotle Barbeque Sauce",
+        "price":43.36,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Southwest Salad with Grilled Chicken",
+        "price":38.52,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Southwest Salad with Crispy Chicken",
+        "price":43.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Southwest Salad (without chicken)",
+        "price":42.59,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Bacon Ranch Salad with Grilled Chicken",
+        "price":44.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Bacon Ranch Salad with Crispy Chicken",
+        "price":53.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Bacon Ranch Salad (without chicken)",
+        "price":57.62,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Caesar Salad with Grilled Chicken",
+        "price":39.96,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Caesar Salad with Crispy Chicken",
+        "price":35.81,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Premium Caesar Salad (without chicken)",
+        "price":44.02,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Side Salad",
+        "price":33.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Butter Garlic Croutons",
+        "price":57.39,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Snack Size Fruit & Walnut Salad",
+        "price":45.69,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Salad Dressings",
+        "price":33.78,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Newman\u2019s Own\u00ae Creamy Southwest Dressing",
+        "price":57.16,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Newman\u2019s Own\u00ae Creamy Caesar Dressing",
+        "price":30.77,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Newman\u2019s Own\u00ae Low Fat Balsamic Vinaigrette",
+        "price":46.71,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Newman\u2019s Own\u00ae Low Fat Family Recipe Italian Dressing",
+        "price":32.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Newman\u2019s Own\u00ae Ranch Dressing",
+        "price":59.78,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Egg McMuffin\u00ae",
+        "price":59.8,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage McMuffin\u00ae",
+        "price":38.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage McMuffin\u00ae with Egg",
+        "price":55.08,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"English Muffin",
+        "price":45.6,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",
+        "price":32.44,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",
+        "price":33.03,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage Biscuit with Egg (Regular Size Biscuit)",
+        "price":32.28,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage Biscuit with Egg (Large Size Biscuit)",
+        "price":32.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage Biscuit (Regular Size Biscuit)",
+        "price":49.3,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage Biscuit (Large Size Biscuit)",
+        "price":46.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Southern Style Chicken Biscuit (Regular Size Biscuit)",
+        "price":45.91,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Southern Style Chicken Biscuit (Large Size Biscuit)",
+        "price":41.33,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Steak, Egg & Cheese Bagel",
+        "price":51.08,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Bacon, Egg & Cheese McGriddles\u00ae",
+        "price":59.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage, Egg & Cheese McGriddles\u00ae",
+        "price":59.85,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage McGriddles\u00ae",
+        "price":44.92,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big Breakfast\u00ae (Regular Size Biscuit)",
+        "price":40.15,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big Breakfast\u00ae (Large Size Biscuit)",
+        "price":41.51,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big Breakfast with Hotcakes (Regular Size Biscuit)",
+        "price":44.01,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Big Breakfast with Hotcakes (Large Size Biscuit)",
+        "price":59.09,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sausage Burrito",
+        "price":35.85,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McSkillet\u2122 Burrito with Sausage",
+        "price":47.82,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hotcakes",
+        "price":34.55,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hotcakes and Sausage",
+        "price":57.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hotcake Syrup",
+        "price":31.34,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Whipped Margarine (1 pat)",
+        "price":44.37,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hash Brown",
+        "price":43.01,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Grape Jam",
+        "price":35.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Preserves",
+        "price":49.32,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Bacon, Egg & Cheese Bagel",
+        "price":55.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Fruit & Maple Oatmeal",
+        "price":40.23,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Fruit & Maple Oatmeal without Brown Sugar",
+        "price":41.51,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hamburger Happy Meal",
+        "price":32.8,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"4 Piece Chicken McNuggets Happy Meal",
+        "price":53.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"6 Piece Chicken McNuggets\u00ae Happy Meal",
+        "price":53.43,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Fruit \u2018n Yogurt Parfait (7 oz)",
+        "price":49.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Low Fat Caramel Dip",
+        "price":52.54,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Reduced Fat Ice Cream Cone",
+        "price":48.0,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Kiddie Cone",
+        "price":34.75,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Sundae",
+        "price":40.2,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Caramel Sundae",
+        "price":49.36,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Fudge Sundae",
+        "price":37.15,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Peanuts (for Sundaes)",
+        "price":46.73,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McFlurry\u00ae with M&M\u2019S\u00ae Candies (12 fl oz cup)",
+        "price":46.38,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McFlurry\u00ae with OREO\u00ae Cookies (12 fl oz cup)",
+        "price":51.2,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Baked Hot Apple Pie",
+        "price":39.13,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cinnamon Melts",
+        "price":39.0,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"McDonaldland\u00ae Cookies",
+        "price":55.63,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate Chip Cookie",
+        "price":43.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Oatmeal Raisin Cookie",
+        "price":49.37,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sugar Cookie",
+        "price":52.25,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Apple Dippers with Low Fat Caramel Dip",
+        "price":53.8,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "price":55.74,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "price":31.5,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "price":46.62,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate Triple Thick\u00ae Shake (12 fl oz cup)",
+        "price":53.37,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate Triple Thick\u00ae Shake (16 fl oz cup)",
+        "price":43.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate Triple Thick\u00ae Shake (21 fl oz cup)",
+        "price":41.77,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Chocolate Triple Thick\u00ae Shake (32 fl oz cup)",
+        "price":59.38,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Snack Size McFlurry\u00ae with M&M\u2019S\u00ae Candies",
+        "price":30.98,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Snack Size McFlurry\u00ae with OREO\u00ae Cookies",
+        "price":49.02,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "price":34.98,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "price":37.31,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "price":48.09,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Triple Thick\u00ae Shake (12 fl oz cup)",
+        "price":40.03,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Triple Thick\u00ae Shake (16 fl oz cup)",
+        "price":31.28,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Triple Thick\u00ae Shake (21 fl oz cup)",
+        "price":45.81,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Triple Thick\u00ae Shake (32 fl oz cup)",
+        "price":57.94,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla McCaf\u00e9\u00ae Shake (12 fl oz cup)",
+        "price":54.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla McCaf\u00e9\u00ae Shake (16 fl oz cup)",
+        "price":43.74,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla McCaf\u00e9\u00ae Shake (22 fl oz cup)",
+        "price":57.11,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Triple Thick Shake\u00ae (32 fl oz cup)",
+        "price":50.43,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Triple Thick\u00ae Shake (12 fl oz cup)",
+        "price":40.71,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Triple Thick\u00ae Shake (16 fl oz cup)",
+        "price":32.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Triple Thick\u00ae Shake (21 fl oz cup)",
+        "price":35.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"1% Low Fat Milk Jug",
+        "price":51.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"1% Low Fat Chocolate Milk Jug",
+        "price":52.53,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Minute Maid\u00ae 100% Apple Juice Box",
+        "price":48.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Dasani\u00ae Water",
+        "price":47.34,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Minute Maid\u00ae Orange Juice (Small)",
+        "price":44.21,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Minute Maid\u00ae Orange Juice (Medium)",
+        "price":46.44,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Minute Maid\u00ae Orange Juice (Large)",
+        "price":47.1,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coca-Cola\u00ae Classic (Child)",
+        "price":41.0,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coca-Cola\u00ae Classic (Small)",
+        "price":52.96,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coca-Cola\u00ae Classic (Medium)",
+        "price":35.14,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coca-Cola\u00ae Classic (Large)",
+        "price":37.92,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Diet Coke\u00ae (Child)",
+        "price":52.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Diet Coke\u00ae (Small)",
+        "price":53.97,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Diet Coke\u00ae (Medium)",
+        "price":42.52,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Diet Coke\u00ae (Large)",
+        "price":36.16,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sprite\u00ae (Child)",
+        "price":41.8,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sprite\u00ae (Small)",
+        "price":46.82,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sprite\u00ae (Medium)",
+        "price":31.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sprite\u00ae (Large)",
+        "price":56.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hi-C\u00ae Orange Lavaburst (Child)",
+        "price":35.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hi-C\u00ae Orange Lavaburst (Small)",
+        "price":36.92,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hi-C\u00ae Orange Lavaburst (Medium)",
+        "price":49.79,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hi-C\u00ae Orange Lavaburst (Large)",
+        "price":53.28,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"POWERade\u00ae Mountain Blast (Child)",
+        "price":52.04,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"POWERade\u00ae Mountain Blast (Small)",
+        "price":37.84,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"POWERade\u00ae Mountain Blast (Medium)",
+        "price":51.31,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"POWERade\u00ae Mountain Blast (Large)",
+        "price":52.71,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Tea (Child)",
+        "price":41.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Tea (Small)",
+        "price":39.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Tea (Medium)",
+        "price":40.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Tea (Large)",
+        "price":44.45,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coffee (Small)",
+        "price":37.32,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coffee (Large)",
+        "price":46.4,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Coffee Cream",
+        "price":32.44,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sugar Packet",
+        "price":33.45,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"EQUAL\u00ae 0\nCalorie Sweetener",
+        "price":35.81,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"SPLENDA\u00ae No\nCalorie Sweetener",
+        "price":54.18,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Caramel (Small)",
+        "price":34.0,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Caramel (Medium)",
+        "price":56.5,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Caramel (Large)",
+        "price":31.14,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Hazelnut (Small)",
+        "price":37.88,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Hazelnut (Medium)",
+        "price":35.36,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Hazelnut (Large)",
+        "price":46.62,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Regular (Small)",
+        "price":36.61,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Regular (Medium)",
+        "price":46.18,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Regular (Large)",
+        "price":46.94,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Vanilla (Small)",
+        "price":35.11,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Vanilla (Medium)",
+        "price":51.37,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee\u2013 Vanilla (Large)",
+        "price":35.44,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee with Sugar Free Vanilla Syrup (Small)",
+        "price":39.61,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee with Sugar Free Vanilla Syrup (Medium)",
+        "price":32.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Coffee with Sugar Free Vanilla Syrup (Large)",
+        "price":52.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sweet Tea (Child)",
+        "price":54.81,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sweet Tea (Large)",
+        "price":43.35,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sweet Tea (Medium)",
+        "price":55.93,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Sweet Tea (Small)",
+        "price":32.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino (Small)",
+        "price":39.74,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino (Medium)",
+        "price":30.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino (Large)",
+        "price":43.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte (Small)",
+        "price":40.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte (Medium)",
+        "price":55.6,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte (Large)",
+        "price":48.28,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Cappuccino (Small)",
+        "price":40.32,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Cappuccino (Medium)",
+        "price":38.76,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Cappuccino (Large)",
+        "price":50.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Latte (Small)",
+        "price":47.73,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Latte (Medium)",
+        "price":40.5,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Latte (Large)",
+        "price":31.63,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Cappuccino (Small)",
+        "price":43.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Cappuccino (Medium)",
+        "price":33.6,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Cappuccino (Large)",
+        "price":46.17,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Latte (Small)",
+        "price":57.29,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Latte (Medium)",
+        "price":51.45,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Hazelnut Latte (Large)",
+        "price":40.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Cappuccino (Small)",
+        "price":36.98,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Cappuccino (Medium)",
+        "price":42.95,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Cappuccino (Large)",
+        "price":48.47,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Latte (Small)",
+        "price":59.57,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Latte (Medium)",
+        "price":31.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Vanilla Latte (Large)",
+        "price":46.02,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "price":56.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "price":48.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "price":53.73,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "price":42.3,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price":55.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "price":47.08,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha with Nonfat Milk (Small)",
+        "price":54.78,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha with Nonfat Milk (Medium)",
+        "price":41.31,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha with Nonfat Milk (Large)",
+        "price":36.06,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate with Nonfat Milk (Small)",
+        "price":36.97,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate with Nonfat Milk (Medium)",
+        "price":59.62,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate with Nonfat Milk (Large)",
+        "price":44.46,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte (Small)",
+        "price":58.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte (Medium)",
+        "price":36.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte (Large)",
+        "price":35.18,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Latte (Small)",
+        "price":31.52,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Latte (Medium)",
+        "price":34.92,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Latte (Large)",
+        "price":39.88,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Hazelnut Latte (Small)",
+        "price":39.9,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Hazelnut Latte (Medium)",
+        "price":51.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Hazelnut Latte (Large)",
+        "price":47.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Vanilla Latte (Small)",
+        "price":42.84,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Vanilla Latte (Medium)",
+        "price":56.31,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Vanilla Latte (Large)",
+        "price":52.13,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "price":40.04,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price":32.84,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "price":39.41,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Mocha with Nonfat Milk (Medium)",
+        "price":37.85,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Mocha (Large)",
+        "price":55.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Mocha (Medium)",
+        "price":31.23,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Nonfat Caramel Mocha (Small)",
+        "price":33.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Mocha (Large)",
+        "price":50.11,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Mocha (Medium)",
+        "price":57.98,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Nonfat Caramel Mocha (Small)",
+        "price":34.39,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino (Small)",
+        "price":55.1,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino (Medium)",
+        "price":34.02,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino (Large)",
+        "price":45.77,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte (Small) ",
+        "price":56.63,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte (Medium)",
+        "price":41.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte (Large)",
+        "price":39.24,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Cappuccino (Small)",
+        "price":56.61,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Cappuccino (Medium)",
+        "price":50.67,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Cappuccino (Large)",
+        "price":55.3,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Latte (Small)",
+        "price":39.33,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Latte (Medium)",
+        "price":34.89,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Latte (Large)",
+        "price":38.72,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Cappuccino (Small)",
+        "price":55.49,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Cappuccino (Medium)",
+        "price":47.27,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Cappuccino (Large)",
+        "price":48.59,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Latte (Small)",
+        "price":33.11,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Latte (Medium)",
+        "price":55.92,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hazelnut Latte (Large)",
+        "price":59.7,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Cappuccino (Small)",
+        "price":41.4,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Cappuccino (Medium)",
+        "price":37.18,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Cappuccino (Large)",
+        "price":36.45,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Latte (Small)",
+        "price":52.91,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Latte (Medium)",
+        "price":57.11,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Vanilla Latte (Large)",
+        "price":30.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "price":35.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "price":38.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "price":36.35,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte with Sugar Free Vanilla Syrup (Small)",
+        "price":51.81,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price":41.15,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Latte with Sugar Free Vanilla Syrup (Large)",
+        "price":30.89,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha (Small)",
+        "price":59.75,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha (Medium)",
+        "price":43.5,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Mocha (Large)",
+        "price":38.91,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate (Small)",
+        "price":53.2,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate (Medium)",
+        "price":30.87,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Hot Chocolate (Large)",
+        "price":59.26,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte (Small)",
+        "price":38.91,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte (Medium)",
+        "price":45.64,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte (Large)",
+        "price":32.28,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Latte (Small)",
+        "price":34.09,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Latte (Medium)",
+        "price":36.08,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Latte (Large)",
+        "price":33.09,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Hazelnut Latte (Small)",
+        "price":37.56,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Hazelnut Latte (Medium)",
+        "price":49.73,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Hazelnut Latte (Large)",
+        "price":53.27,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Vanilla Latte (Small)",
+        "price":31.77,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Vanilla Latte (Medium)",
+        "price":32.14,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Vanilla Latte (Large)",
+        "price":34.09,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte with Sugar Free Vanilla Syrup (Small)",
+        "price":36.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price":56.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Latte with Sugar Free Vanilla Syrup (Large)",
+        "price":48.35,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Mocha (Medium)",
+        "price":52.49,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Mocha (Large)",
+        "price":45.15,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Mocha (Medium)",
+        "price":40.75,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Caramel Mocha (Small)",
+        "price":41.99,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Mocha (Large)",
+        "price":51.87,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Mocha (Medium)",
+        "price":35.25,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Iced Caramel Mocha (Small)",
+        "price":44.35,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Caramel (Small)",
+        "price":32.43,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Caramel (Medium)",
+        "price":37.87,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Caramel (Large)",
+        "price":37.19,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Mocha (Small)",
+        "price":31.68,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Mocha (Medium)",
+        "price":53.05,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Frappe Mocha (Large)",
+        "price":53.26,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Banana Smoothie (Large)",
+        "price":32.26,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Banana Smoothie (Medium)",
+        "price":43.86,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Strawberry Banana Smoothie (Small)",
+        "price":56.84,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Wild Berry Smoothie (Large)",
+        "price":51.66,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Wild Berry Smoothie (Medium)",
+        "price":41.85,
+        "description":""
+    },
+    {
+        "Company":"McDonald\u2019s",
+        "Item":"Wild Berry Smoothie (Small)",
+        "price":36.78,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Whopper\u00ae Sandwich",
+        "price":48.16,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Whopper\u00ae Sandwich with Cheese",
+        "price":30.48,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon & Cheese Whopper\u00ae Sandwich",
+        "price":41.52,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Whopper\u00ae Sandwich",
+        "price":56.2,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Whopper\u00ae Sandwich with Cheese",
+        "price":59.42,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Triple Whopper\u00ae Sandwich",
+        "price":43.07,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Triple Whopper\u00ae Sandwich with Cheese",
+        "price":58.83,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Whopper JR.\u00ae Sandwich",
+        "price":41.23,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon King Sandwich",
+        "price":56.08,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Cheddar Bacon King Sandwich",
+        "price":55.66,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Single Quarter Pound King Sandwich",
+        "price":58.46,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Quarter Pound King Sandwich",
+        "price":37.36,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Single Stacker King",
+        "price":31.58,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Stacker King",
+        "price":44.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"IMPOSSIBLE Whopper\u00ae Sandwich",
+        "price":51.0,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hamburger",
+        "price":52.49,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Cheeseburger",
+        "price":49.81,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Hamburger",
+        "price":33.04,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double Cheeseburger",
+        "price":42.08,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Extra Long Cheeseburger",
+        "price":51.58,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon Cheeseburger",
+        "price":57.67,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon Double Cheeseburger",
+        "price":47.69,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Crispy Chicken Sandwich",
+        "price":56.54,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Crispy Chicken Sandwich",
+        "price":57.14,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Original Chicken Sandwich",
+        "price":53.65,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon & Cheese Crispy Chicken Sandwich",
+        "price":34.94,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BBQ Bacon Crispy Chicken Sandwich",
+        "price":48.74,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Crispy Chicken Jr.",
+        "price":34.08,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Crispy Chicken Jr.",
+        "price":35.09,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 4pc",
+        "price":48.15,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 6pc",
+        "price":38.26,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 10pc",
+        "price":59.24,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 20pc",
+        "price":30.36,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Chicken Nuggets- 4pc",
+        "price":29.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Chicken Nuggets- 6pc",
+        "price":40.59,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Chicken Nuggets- 10 pc",
+        "price":54.79,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Spicy Chicken Nuggets- 20 pc",
+        "price":35.49,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Fries \u2013 9 pc.",
+        "price":57.59,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Crispy Taco",
+        "price":31.4,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BIG FISH Sandwich",
+        "price":39.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Garden Chicken Salad with Crispy Chicken \u2013 no dressing",
+        "price":38.35,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Club Salad with Crispy Chicken \u2013 no dressing",
+        "price":32.19,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Garden Side Salad \u2013 w\/o dressing",
+        "price":36.03,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ken\u2019s Ranch Dressing",
+        "price":59.72,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ken\u2019s Golden Italian Dressing",
+        "price":48.92,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ken\u2019s Lite Honey Balsamic Vinaigrette",
+        "price":37.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Buttery Garlic Croutons- Packet",
+        "price":29.9,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Onion Rings \u2013 value",
+        "price":44.92,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Onion Rings \u2013 small",
+        "price":38.43,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Onion Rings \u2013 medium",
+        "price":42.55,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Onion Rings \u2013 large",
+        "price":58.54,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Fries \u2013 value (unsalted)",
+        "price":38.57,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Fries \u2013 small",
+        "price":53.03,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Fries \u2013 medium",
+        "price":45.68,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Fries \u2013 large",
+        "price":37.98,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Kids Oatmeal",
+        "price":30.59,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 4pc",
+        "price":50.82,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chicken Nuggets- 6pc",
+        "price":48.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hamburger",
+        "price":36.08,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Cheeseburger",
+        "price":35.54,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Mott\u2019s\u00ae Natural Applesauce",
+        "price":47.77,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Fat FREE Milk (8 fl oz)",
+        "price":58.42,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"1% Low Fat Chocolate Milk (8 fl oz)",
+        "price":51.94,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Capri Sun\u00ae 100% Apple Juice (6 fl oz)",
+        "price":40.38,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"PB&J Jamwich",
+        "price":41.73,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Soft Serve Cone",
+        "price":33.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Dutch Apple Pie",
+        "price":42.14,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"HERSHEY\u00ae\u2019S Sundae Pie",
+        "price":37.41,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Pie made with TWIX\u00ae",
+        "price":43.43,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"OREO\u00ae Cookie Cheesecake",
+        "price":36.72,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Soft Serve Cone",
+        "price":35.84,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Soft Serve Cup",
+        "price":40.61,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"HERSHEY\u00ae\u2019s Chocolate Sundae",
+        "price":38.41,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Caramel Sundae",
+        "price":55.43,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chocolate Chip Cookies (each)",
+        "price":50.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"CROISSAN\u2019WICH\u00ae Egg & Cheese",
+        "price":50.34,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"CROISSAN\u2019WICH\u00ae Sausage, Egg & Cheese",
+        "price":59.55,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"CROISSAN\u2019WICH\u00ae Ham, Egg & Cheese",
+        "price":54.18,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"CROISSAN\u2019WICH\u00ae Bacon, Egg & Cheese",
+        "price":46.14,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Fully Loaded CROISSAN\u2019WICH\u00ae",
+        "price":58.41,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double CROISSAN\u2019WICH\u00ae with Sausage & Bacon",
+        "price":52.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double CROISSAN\u2019WICH\u00ae with Sausage",
+        "price":53.49,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Double CROISSAN\u2019WICH\u00ae with Ham & Sausage",
+        "price":58.85,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Fully Loaded Biscuit",
+        "price":48.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ham, Egg, & Cheese Biscuit",
+        "price":49.56,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Sausage, Egg, & Cheese Biscuit",
+        "price":31.9,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Bacon, Egg & Cheese Biscuit",
+        "price":47.99,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Sausage Biscuit",
+        "price":32.21,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Breakfast Burrito Jr.",
+        "price":36.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"EGG-NORMOUS BURRITO\u03a1",
+        "price":32.98,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u2122 Ultimate Breakfast Platter",
+        "price":34.22,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"NY Ultimate Platter (Regional menu item)",
+        "price":37.54,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Pancake and Sausage platter",
+        "price":32.93,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hash Browns \u2013 small",
+        "price":35.1,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hash Browns \u2013 medium",
+        "price":35.67,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hash Browns \u2013 large",
+        "price":54.7,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Toast Sticks (3 piece)",
+        "price":43.55,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"French Toast Sticks (5 piece)",
+        "price":44.54,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"American Cheese (slice)",
+        "price":34.96,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ketchup (Packet)",
+        "price":52.12,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Mayonnaise (Packet)",
+        "price":51.71,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Strawberry or Grape Jam (packet)",
+        "price":34.59,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Breakfast Syrup (1 oz)",
+        "price":54.7,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Barbecue Dipping Sauce (1 oz)",
+        "price":34.92,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Ranch Dipping Sauce (1 oz)",
+        "price":50.46,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Buffalo Dipping Sauce (1 oz)",
+        "price":42.6,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Zesty Onion Ring Dipping Sauce (1 oz)",
+        "price":40.57,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Honey Mustard Dipping Sauce (1oz)",
+        "price":46.24,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Fat FREE Milk (8 fl oz)",
+        "price":50.74,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"1% Low Fat Chocolate Milk (8 fl oz)",
+        "price":57.56,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Smoothie: Strawberry Banana 16 fl oz",
+        "price":54.09,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Oreo\u00ae Shake",
+        "price":31.29,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Chocolate Oreo\u00ae Shake",
+        "price":53.36,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Vanilla Milk Shake",
+        "price":50.09,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"HERSHEY\u00ae\u2019S Chocolate Milk Shake",
+        "price":38.41,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Strawberry Milk Shake",
+        "price":53.03,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Coca Cola classic\u00ae\u2021",
+        "price":51.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":42.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":58.62,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":56.67,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":53.12,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Diet Coke\u00ae\u2021",
+        "price":32.41,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":46.91,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":39.47,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":53.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":47.22,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Sprite\u00ae\u2021",
+        "price":54.33,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":36.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":41.74,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":43.06,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":44.87,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Dr. Pepper\u00ae\u2021",
+        "price":53.68,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":38.63,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":47.58,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":52.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":32.71,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Barq\u2019s\u00ae Root Beer\u2021",
+        "price":58.76,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":43.76,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":52.43,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":36.68,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":46.3,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Cherry Coke\u00ae\u2021",
+        "price":44.2,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":46.42,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":53.16,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":49.01,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":41.3,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Fanta\u00ae Orange\u2021",
+        "price":37.23,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":50.91,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":38.72,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":59.52,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":52.6,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Hi-C\u00ae Fruit Punch\u2021",
+        "price":40.45,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":55.49,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":49.53,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":47.63,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":51.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"MINUTE MAID\u00ae Light Lemonade",
+        "price":57.53,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"16 fl oz",
+        "price":35.4,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":53.68,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":56.1,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"38 fl oz",
+        "price":39.6,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Sweet Tea",
+        "price":33.49,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":37.5,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":45.7,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"40 fl oz",
+        "price":32.91,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Unsweetened Tea",
+        "price":38.59,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"20 fl oz",
+        "price":42.72,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"29 fl oz",
+        "price":49.33,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"40 fl oz",
+        "price":30.85,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Capri Sun\u00ae 100% Apple Juice",
+        "price":47.98,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Minute Maid\u00ae Orange Juice",
+        "price":35.83,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"Frozen Coke\u00ae \u2013 16 oz",
+        "price":58.93,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Coffee- 12 fl oz",
+        "price":38.16,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Coffee- 16 fl oz",
+        "price":44.5,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Coffee- 20 fl oz",
+        "price":48.83,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Decaf Coffee- 12 fl oz",
+        "price":45.97,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Decaf Coffee- 16 fl oz",
+        "price":41.34,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Decaf Coffee- 20 fl oz",
+        "price":54.24,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 12 fl oz",
+        "price":43.84,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 16 fl oz",
+        "price":57.32,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 20 fl oz",
+        "price":52.76,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Mocha Coffee- 12 fl oz",
+        "price":57.07,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Mocha Coffee- 16 fl oz",
+        "price":55.47,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Iced Mocha Coffee- 20 fl oz",
+        "price":31.15,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Mocha Frappe- 12 fl oz",
+        "price":37.71,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Mocha Frappe- 16 fl oz",
+        "price":31.1,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Mocha Frappe- 20 fl oz",
+        "price":41.92,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Caramel Frappe- 12 fl oz",
+        "price":57.92,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Caramel Frappe- 16 fl oz",
+        "price":36.09,
+        "description":""
+    },
+    {
+        "Company":"Burger King",
+        "Item":"BK\u00ae Caf\u00e9 Caramel Frappe- 20 fl oz",
+        "price":55.78,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Baconator",
+        "price":52.49,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dave\u2019s Double",
+        "price":36.2,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dave\u2019s Single",
+        "price":32.86,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dave\u2019s Triple",
+        "price":45.57,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Double Stack",
+        "price":48.0,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Jr. Bacon Cheeseburger",
+        "price":48.71,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Jr. Cheeseburger",
+        "price":38.14,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Jr. Cheeseburger Deluxe",
+        "price":38.08,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Son of Baconator",
+        "price":37.25,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"3 Piece Chicken Tenders",
+        "price":37.84,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"4 Piece Chicken Nuggets",
+        "price":30.94,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"4 Piece Chicken Tenders",
+        "price":48.24,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"6 Picece Chicken Nuggets",
+        "price":57.39,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"6 Piece Chicken Tenders",
+        "price":32.82,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"10 Piece Chicken Nuggets",
+        "price":59.52,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Crispy Chicken BLT",
+        "price":43.14,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Crispy Chicken Sandwich",
+        "price":47.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Grilled Asiago Ranch Club",
+        "price":52.95,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Grilled Chicken Sandwich",
+        "price":58.62,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Grilled Chicken Wrap",
+        "price":44.55,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Homestyle Asiago Ranch Chicken Club",
+        "price":33.5,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Homestyle Chicken Sandwich",
+        "price":35.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"S\u2019Awesome Sauce",
+        "price":38.11,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Spicy Asiago Ranch Club",
+        "price":48.35,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Spicy Chicken Sandwich",
+        "price":42.14,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Spicy Chicken Wrap",
+        "price":37.7,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Pecan Chicken Salad, Full Size",
+        "price":43.62,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Pecan Chicken Salad, Half Size",
+        "price":41.96,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Berry Burst Chicken Salad, Full Size",
+        "price":43.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Berry Burst Chicken Salad, Half Size",
+        "price":53.92,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Caesar Side Salad",
+        "price":51.51,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Garden Side Salad",
+        "price":54.42,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Southwest Avocado Chicken Salad, Full Size",
+        "price":43.26,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Southwest Avocado Chicken Salad, Half Size",
+        "price":52.37,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Spicy Caesar Chicken Salad, Full Size",
+        "price":45.91,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Spicy Caesar Chicken Salad, Half Size",
+        "price":56.23,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Taco Salad, Full Size",
+        "price":39.71,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Taco Salad, Half Size",
+        "price":52.07,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Bites",
+        "price":52.7,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Baconator Fries",
+        "price":54.86,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Bacon Cheese Baked Potato",
+        "price":45.33,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Cheese Baked Potato",
+        "price":50.25,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Chili & Cheese Baked Potato",
+        "price":31.68,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Chili, Large",
+        "price":38.33,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Chili, Small",
+        "price":52.8,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Chili Cheese Fries",
+        "price":42.23,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Natural-Cut Fries, Junior",
+        "price":51.4,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Natural-Cut Fries, Large",
+        "price":32.39,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Natural-Cut Fries, Medium",
+        "price":39.54,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Natural-Cut Fries, Small",
+        "price":59.05,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Plain Baked Potato",
+        "price":39.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sour Cream and Chive Baked Potato",
+        "price":33.81,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Summer Berry Burst Fruit Cup",
+        "price":51.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"1% Chocolate Milk",
+        "price":37.34,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"1% White Milk",
+        "price":33.14,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"All-Natural Lemonade, Large",
+        "price":56.31,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"All-Natural Lemonade, Medium",
+        "price":41.85,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"All-Natural Lemonade, Small",
+        "price":42.68,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Kiwi Fruit Tea, Large",
+        "price":55.52,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Kiwi Fruit Tea, Medium",
+        "price":46.75,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Apple Kiwi Fruit Tea, Small",
+        "price":34.28,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Barq\u2019s Root Beer, Large",
+        "price":30.49,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Barq\u2019s Root Beer, Medium",
+        "price":48.48,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Barq\u2019s Root Beer, Small",
+        "price":32.18,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Brewed Unsweetened Iced Tea, Large",
+        "price":42.93,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Brewed Unsweetened Iced Tea, Medium",
+        "price":58.41,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Brewed Unsweetened Iced Tea, Small",
+        "price":41.65,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Caramel Iced Coffee, Medium",
+        "price":34.13,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Caramel Iced Coffee, Small",
+        "price":52.98,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola, Large",
+        "price":38.79,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola, Medium",
+        "price":41.75,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola, Small",
+        "price":55.8,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola Zero Sugar, Large",
+        "price":56.36,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola Zero Sugar, Medium",
+        "price":52.31,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Coca-Cola Zero Sugar, Small",
+        "price":38.99,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Diet Coke, Large",
+        "price":54.45,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Diet Coke, Medium",
+        "price":46.9,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Diet Coke, Small",
+        "price":38.96,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dr Pepper, Large",
+        "price":48.89,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dr Pepper, Medium",
+        "price":51.01,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Dr Pepper, Small",
+        "price":39.39,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Fanta Orange, Large",
+        "price":29.98,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Fanta Orange, Medium",
+        "price":41.31,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Fanta Orange, Small",
+        "price":36.85,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Hi-C Flashin\u2019 Fruit Punch, Large",
+        "price":50.06,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Hi-C Flashin\u2019 Fruit Punch, Medium",
+        "price":41.52,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Hi-C Flashin\u2019 Fruit Punch, Small",
+        "price":51.21,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Honest Tropical Green Tea, Large",
+        "price":37.6,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Honest Tropical Green Tea, Medium",
+        "price":40.63,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Honest Tropical Green Tea, Small",
+        "price":44.88,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Hot Tea",
+        "price":36.75,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Limeade, Large",
+        "price":53.38,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Limeade, Medium",
+        "price":55.63,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Limeade, Small",
+        "price":55.83,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Minute Maid Light Lemonade, Large",
+        "price":34.99,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Minute Maid Light Lemonade, Medium",
+        "price":46.1,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Minute Maid Light Lemonade, Small",
+        "price":47.08,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Mocha Iced Coffee, Medium",
+        "price":45.36,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Mocha Iced Coffee, Small",
+        "price":56.66,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Pear Berry Fruit Tea, Large",
+        "price":39.45,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Pear Berry Fruit Tea, Medium",
+        "price":34.31,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Pear Berry Fruit Tea, Small",
+        "price":58.34,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Skinny Vanilla Iced Coffee, Medium",
+        "price":49.43,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Skinny Vanilla Iced Coffee, Small",
+        "price":50.31,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Small Sprite, Small",
+        "price":59.54,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sprite, Large",
+        "price":52.61,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sprite, Medium",
+        "price":55.14,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Lemonade, Large",
+        "price":51.38,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Lemonade, Medium",
+        "price":54.65,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Lemonade, Small",
+        "price":48.18,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Sweet Tea, Large",
+        "price":51.3,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Sweet Tea, Medium",
+        "price":59.66,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Sweet Tea, Small",
+        "price":47.11,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Tea, Large",
+        "price":54.13,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Tea, Medium",
+        "price":35.41,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Strawberry Tea, Small",
+        "price":40.55,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sweetened Iced Tea, Large",
+        "price":49.98,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sweetened Iced Tea, Medium",
+        "price":45.98,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sweetened Iced Tea, Small",
+        "price":41.02,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Iced Coffee, Medium",
+        "price":44.24,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Iced Coffee, Small",
+        "price":50.36,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Classic Chocolate Frosty, Junior",
+        "price":59.88,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Classic Chocolate Frosty, Large",
+        "price":40.09,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Classic Chocolate Frosty, Medium",
+        "price":39.36,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Classic Chocolate Frosty, Small",
+        "price":45.06,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Frosty, Junior",
+        "price":54.63,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Frosty, Large",
+        "price":41.01,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Frosty, Medium",
+        "price":44.83,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Vanilla Frosty, Small",
+        "price":48.65,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Chocolate Chunk Cookie",
+        "price":42.42,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Double Chocolate Chunk Cookie",
+        "price":42.53,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sugar Cookie",
+        "price":29.95,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Kids 2 Piece Chicken Tenders",
+        "price":37.56,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Kids 4 Piece Chicken Nuggets",
+        "price":54.05,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Kids Cheeseburger",
+        "price":38.41,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Kids Grilled Chicken Wrap",
+        "price":40.21,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Kids Hamburger",
+        "price":42.62,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Artisan Egg Sandwich with Bacon",
+        "price":44.58,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Artisan Egg Sandwich with Sausage",
+        "price":33.57,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Bacon Breakfast Bowl",
+        "price":41.63,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Biggie Breakfast Sandwich",
+        "price":56.72,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Fresh-Baked Biscuit with Applewood Smoked Bacon",
+        "price":35.41,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Fresh Baked Biscuit with Natural Sausage",
+        "price":51.36,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Gravy and Sausage Bowl",
+        "price":30.55,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Honey Butter Chicken Biscuit",
+        "price":35.25,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sausage and Egg Burrito",
+        "price":54.99,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sausage and Gravy Biscuit",
+        "price":54.39,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sausage Biscuit",
+        "price":44.47,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Sausage Breakfast Bowl",
+        "price":53.97,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Seasoned Home-Style Potatoes, Large",
+        "price":42.23,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Seasoned Home-Style Potatoes, Medium",
+        "price":55.71,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Seasoned Home-Style Potatoes, Small",
+        "price":30.21,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Two Sausage and Egg Burritos",
+        "price":44.98,
+        "description":""
+    },
+    {
+        "Company":"Wendy\u2019s",
+        "Item":"Two Sausage Biscuits",
+        "price":48.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Limited Time Cinnabon Dessert  Biscuits",
+        "price":48.39,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast",
+        "price":45.51,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick",
+        "price":40.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh",
+        "price":50.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing",
+        "price":31.83,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Breast",
+        "price":38.65,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Drumstick",
+        "price":37.87,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Thigh",
+        "price":30.98,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Whole Wing",
+        "price":30.7,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Breast",
+        "price":34.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Drumstick",
+        "price":57.86,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Thigh",
+        "price":33.12,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Whole Wing",
+        "price":52.15,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Breast",
+        "price":44.83,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Drumstick",
+        "price":40.4,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Thigh",
+        "price":46.61,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Whole Wing",
+        "price":38.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Chicken Breast",
+        "price":34.88,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Chicken Drumstick",
+        "price":48.06,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Chicken Thigh",
+        "price":49.32,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Chicken Whole Wing",
+        "price":31.5,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY GRILLED CHICKEN Breast",
+        "price":46.52,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY GRILLED CHICKEN Drumstick",
+        "price":38.63,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY GRILLED CHICKEN Thigh",
+        "price":59.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY GRILLED CHICKEN Whole Wing",
+        "price":58.19,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"SPICY CRISPY CHICKEN Breast",
+        "price":31.74,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"SPICY CRISPY CHICKEN Drumstick",
+        "price":54.07,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"SPICY CRISPY CHICKEN Thigh",
+        "price":33.09,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"SPICY CRISPY CHICKEN Whole Wing",
+        "price":46.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Tender (each)",
+        "price":46.81,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"EXTRA CRISPY  Tender (each)",
+        "price":29.97,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY FRIED WINGS Buffalo",
+        "price":37.89,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY FRIED WINGS Honey BBQ",
+        "price":47.79,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY FRIED WINGS Nashville Hot",
+        "price":55.19,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KENTUCKY FRIED WINGS Unsauced",
+        "price":55.97,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"POPCORN NUGGETS Kids",
+        "price":39.82,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"POPCORN NUGGETS Large",
+        "price":38.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"BBQ Baked Beans",
+        "price":52.44,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Biscuit",
+        "price":39.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Coleslaw",
+        "price":55.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Corn on the Cob",
+        "price":43.37,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Green Beans",
+        "price":57.35,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Cornbread Muffin",
+        "price":37.45,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Macaroni & Cheese",
+        "price":43.36,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Macaroni Salad",
+        "price":57.28,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mashed Potatoes",
+        "price":55.01,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mashed Potatoes With Gravy",
+        "price":59.5,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Potato Salad",
+        "price":53.78,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Secret Recipe Fries",
+        "price":40.78,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sweet Kernel Corn",
+        "price":37.07,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"BBQ Baked Beans (Family)",
+        "price":50.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Coleslaw (Family)",
+        "price":37.35,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Corn on the Cob (Family)",
+        "price":58.33,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Green Beans (Family)",
+        "price":40.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Macaroni & Cheese (Family)",
+        "price":52.39,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Macaroni Salad (Family)",
+        "price":39.32,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mashed Potatoes (Family)",
+        "price":37.0,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mashed Potatoes With Gravy (Family)",
+        "price":47.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Potato Salad (Family)",
+        "price":35.31,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Secret Recipe Fries (Family)",
+        "price":48.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sweet Kernel Corn (Family)",
+        "price":31.58,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Littles",
+        "price":54.05,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Littles \u2013 Buffalo",
+        "price":34.99,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Littles \u2013 Honey BBQ",
+        "price":44.58,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Littles \u2013 Nashville Hot",
+        "price":45.82,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Classic Chicken Sandwich",
+        "price":37.64,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Crispy Colonel\u2019s Sandwich",
+        "price":46.94,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Crispy Colonel\u2019s Sandwich \u2013 Buffalo",
+        "price":50.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Crispy Colonel\u2019s Sandwich \u2013 Honey BBQ",
+        "price":34.04,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Crispy Colonel\u2019s Sandwich \u2013 Nashville Hot",
+        "price":36.9,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Crispy Twister\u00ae",
+        "price":44.24,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Honey BBQ Sandwich",
+        "price":56.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Spicy Chicken Sandwich",
+        "price":40.25,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chicken Pot Pie",
+        "price":43.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Famous Bowl",
+        "price":57.95,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Famous Bowl \u2013 Snack Size",
+        "price":54.47,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Caesar Side Salad",
+        "price":52.03,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"House Side Salad",
+        "price":47.79,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Heinz Buttermilk Dressing",
+        "price":33.91,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Hidden Valley The Original Ranch Fat Free Dressing",
+        "price":57.82,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Creamy Parmesan Caesar Dressing",
+        "price":34.09,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Marzetti Light Italian Dressing",
+        "price":31.13,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Parmesan Garlic Croutons",
+        "price":32.5,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Apple Turnover",
+        "price":36.42,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Caf\u00e9 Valley Chocolate Chip Cake (1 Slice)",
+        "price":37.83,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Caf\u00e9 Valley Lemon Cake (1 Slice)",
+        "price":54.63,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Caf\u00e9 Valley Mini Chocolate Chip Cake",
+        "price":51.32,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Caf\u00e9 Valley Mini Lemon Cake",
+        "price":50.45,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chocolate Chip Cookie",
+        "price":41.29,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Oreo Cookies and Cr\u00e8me Pie",
+        "price":32.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Reese\u2019s Peanut Butter Pie",
+        "price":38.46,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"BBQ \u2013 Dipping Sauce Cup",
+        "price":37.09,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Colonel\u2019s Buttery Spread",
+        "price":50.78,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Grape Jelly Packet",
+        "price":48.91,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Honey Mustard \u2013 Dipping Sauce Cup",
+        "price":59.0,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Honey Sauce Packet",
+        "price":43.57,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Ketchup",
+        "price":38.94,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC Sauce \u2013 Dipping Sauce Cup",
+        "price":34.4,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lemon Juice Packet",
+        "price":32.77,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Ranch \u2013 Dipping Sauce Cup",
+        "price":42.12,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Strawberry Jam Packet",
+        "price":41.88,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Capri Sun\u00ae 100% Juice Fruit Punch",
+        "price":36.91,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Chocolate Milk 1%",
+        "price":53.74,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Milk 1%",
+        "price":48.18,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Musselman\u2019s\u2122 Applesauce",
+        "price":33.89,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"7UP\u00ae (12 fl oz)",
+        "price":56.52,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"7UP\u00ae (16 fl oz)",
+        "price":56.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"7UP\u00ae (20 fl oz)",
+        "price":45.25,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"7UP\u00ae (30 fl oz)",
+        "price":36.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Classic Lemonade (1\/2 Gallon)",
+        "price":35.33,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Classic Lemonade (20 fl oz)",
+        "price":37.63,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Code Red Mountain Dew\u00ae (12 fl oz)",
+        "price":37.77,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Code Red Mountain Dew\u00ae (16 fl oz)",
+        "price":48.34,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Code Red Mountain Dew\u00ae (20 fl oz)",
+        "price":31.04,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Code Red Mountain Dew\u00ae (30 fl oz)",
+        "price":56.53,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Dr Pepper\u00ae (12 fl oz)",
+        "price":30.95,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Dr Pepper\u00ae (16 fl oz)",
+        "price":58.12,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Dr Pepper\u00ae (20 fl oz)",
+        "price":48.68,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Dr Pepper\u00ae (30 fl oz)",
+        "price":47.63,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mist Twst\u00ae (12 fl oz)",
+        "price":42.26,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mist Twst\u00ae (16 fl oz)",
+        "price":41.34,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mist Twst\u00ae (20 fl oz)",
+        "price":53.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mist Twst\u00ae (30 fl oz)",
+        "price":41.38,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mountain Dew\u00ae (12 fl oz)",
+        "price":55.55,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mountain Dew\u00ae (16 fl oz)",
+        "price":38.67,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mountain Dew\u00ae (20 fl oz)",
+        "price":50.72,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Mountain Dew\u00ae (30 fl oz)",
+        "price":46.34,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae (12 fl oz)",
+        "price":46.41,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae (16 fl oz)",
+        "price":40.05,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae (20 fl oz)",
+        "price":45.91,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae (30 fl oz)",
+        "price":36.08,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (12 fl oz)",
+        "price":47.21,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (16 fl oz)",
+        "price":39.0,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (20 fl oz)",
+        "price":44.19,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Diet Pepsi\u00ae Wild Cherry Pepsi\u00ae (30 fl oz)",
+        "price":53.83,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Dr Pepper\u00ae (12 fl oz)",
+        "price":32.95,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Dr Pepper\u00ae (16 fl oz)",
+        "price":36.53,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Dr Pepper\u00ae (20 fl oz)",
+        "price":50.41,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Dr Pepper\u00ae (30 fl oz)",
+        "price":33.76,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Lemon Tea (12 fl oz)",
+        "price":59.32,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Lemon Tea (16 fl oz)",
+        "price":44.41,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Lemon Tea (20 fl oz)",
+        "price":35.47,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Lemon Tea (30 fl oz)",
+        "price":40.45,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (12 fl oz)",
+        "price":42.89,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (16 fl oz)",
+        "price":53.11,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (20 fl oz)",
+        "price":45.99,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae No Calorie Peach Iced Green Tea (30 fl oz)",
+        "price":34.11,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Raspberry Tea (12 fl oz)",
+        "price":58.32,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Raspberry Tea (16 fl oz)",
+        "price":49.86,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Raspberry Tea (20 fl oz)",
+        "price":34.82,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Raspberry Tea (30 fl oz)",
+        "price":58.62,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Sweet Iced Tea (12 fl oz)",
+        "price":40.14,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Sweet Iced Tea (16 fl oz)",
+        "price":51.19,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Sweet Iced Tea (20 fl oz)",
+        "price":53.98,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Sweet Iced Tea (30 fl oz)",
+        "price":55.34,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (12 fl oz)",
+        "price":40.04,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (16 fl oz)",
+        "price":54.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (20 fl oz)",
+        "price":54.96,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Lipton\u00ae Brisk\u00ae Unsweetened No Lemon Iced Tea (30 fl oz)",
+        "price":51.99,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Manzanita Sol\u00ae (12 fl oz)",
+        "price":57.29,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Manzanita Sol\u00ae (16 fl oz)",
+        "price":35.16,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Manzanita Sol\u00ae (20 fl oz)",
+        "price":47.3,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Manzanita Sol\u00ae (30 fl oz)",
+        "price":37.57,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Miranda\u00ae Strawberry (12 fl oz)",
+        "price":46.53,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Miranda\u00ae Strawberry (16 fl oz)",
+        "price":37.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Miranda\u00ae Strawberry (20 fl oz)",
+        "price":44.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Miranda\u00ae Strawberry (30 fl oz)",
+        "price":52.25,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mist Twst\u00ae (12 fl oz)",
+        "price":43.83,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mist Twst\u00ae (16 fl oz)",
+        "price":42.66,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mist Twst\u00ae (20 fl oz)",
+        "price":41.36,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mist Twst\u00ae (30 fl oz)",
+        "price":31.71,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"MNT DEW Sweet Lightning (20 fl oz)",
+        "price":44.25,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mountain Dew\u00ae (12 fl oz)",
+        "price":57.24,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mountain Dew\u00ae (16 fl oz)",
+        "price":55.58,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mountain Dew\u00ae (20 fl oz)",
+        "price":32.39,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mountain Dew\u00ae (30 fl oz)",
+        "price":36.98,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mug Root Beer\u00ae (12 fl oz)",
+        "price":56.5,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mug Root Beer\u00ae (16 fl oz)",
+        "price":57.99,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mug Root Beer\u00ae (20 fl oz)",
+        "price":57.35,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Mug Root Beer\u00ae (30 fl oz)",
+        "price":48.69,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi Zero Sugar\u00ae (12 fl oz)",
+        "price":30.15,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi Zero Sugar\u00ae (16 fl oz)",
+        "price":37.76,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi Zero Sugar\u00ae (20 fl oz)",
+        "price":43.2,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi Zero Sugar\u00ae (30 fl oz)",
+        "price":41.99,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi\u00ae (12 fl oz)",
+        "price":36.01,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi\u00ae (16 fl oz)",
+        "price":51.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi\u00ae (20 fl oz)",
+        "price":58.22,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Pepsi\u00ae (30 fl oz)",
+        "price":44.19,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sobe Lifewater Yumberry Pomegranate (12 fl oz)",
+        "price":40.52,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sobe Lifewater Yumberry Pomegranate (16 fl oz)",
+        "price":48.44,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sobe Lifewater Yumberry Pomegranate (20 fl oz)",
+        "price":35.76,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Sobe Lifewater Yumberry Pomegranate (30 fl oz)",
+        "price":55.18,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Strawberry Lemonade (1\/2 Gallon)",
+        "price":35.17,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Strawberry Lemonade (20 fl oz)",
+        "price":30.14,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Fruit Punch (12 fl oz)",
+        "price":44.89,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Fruit Punch (16 fl oz)",
+        "price":52.0,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Fruit Punch (20 fl oz)",
+        "price":55.89,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Fruit Punch (30 fl oz)",
+        "price":30.27,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Light Lemonade (12 fl oz)",
+        "price":31.49,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Light Lemonade (16 fl oz)",
+        "price":55.17,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Light Lemonade (20 fl oz)",
+        "price":40.02,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Light Lemonade (30 fl oz)",
+        "price":53.14,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Pink Lemonade (12 fl oz)",
+        "price":43.16,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Pink Lemonade (16 fl oz)",
+        "price":39.37,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Pink Lemonade (20 fl oz)",
+        "price":56.25,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Pink Lemonade (30 fl oz)",
+        "price":44.87,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Twister\u00ae Orange (12 fl oz)",
+        "price":48.95,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Twister\u00ae Orange (16 fl oz)",
+        "price":55.27,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Twister\u00ae Orange (20 fl oz)",
+        "price":54.53,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Tropicana\u00ae Twister\u00ae Orange (30 fl oz)",
+        "price":55.85,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Wild Cherry Pepsi\u00ae (12 fl oz)",
+        "price":57.87,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Wild Cherry Pepsi\u00ae (16 fl oz)",
+        "price":55.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Wild Cherry Pepsi\u00ae (20 fl oz)",
+        "price":59.05,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Wild Cherry Pepsi\u00ae (30 fl oz)",
+        "price":48.48,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Country Fried Steak without Peppered White Gravy",
+        "price":55.17,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"Country Fried Steak with Peppered White Gravy",
+        "price":54.54,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Gizzards",
+        "price":48.68,
+        "description":""
+    },
+    {
+        "Company":"KFC",
+        "Item":"KFC\u00ae Livers",
+        "price":48.12,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Bacon Club Chalupa",
+        "price":50.06,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Blue Raspberry Freeze\u2122 (16 oz)",
+        "price":48.74,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Blue Raspberry Freeze\u2122 (20 oz)",
+        "price":59.13,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Loaded Nacho Taco",
+        "price":30.21,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Midnight Berry Freeze\u2122 (16 oz)",
+        "price":47.33,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Midnight Berry Freeze\u2122 (20 oz)",
+        "price":57.59,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Fries",
+        "price":40.07,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Fries BellGrande\u00ae",
+        "price":53.64,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Chalupa \u2013 Online Exclusive",
+        "price":39.62,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Quesarito \u2013 Online Exclusive",
+        "price":30.48,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesarito \u2013 Online Exclusive",
+        "price":35.25,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chalupa Supreme\u00ae \u2013 Beef",
+        "price":48.12,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chalupa Supreme\u00ae \u2013 Chicken",
+        "price":58.24,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chalupa Supreme\u00ae \u2013 Steak",
+        "price":41.06,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Gordita Crunch",
+        "price":59.64,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Crunchy Taco",
+        "price":40.51,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Crunchy Taco Supreme\u00ae",
+        "price":55.27,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Loaded Nacho Taco (New)",
+        "price":33.39,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Cheese Doritos\u00ae Locos Taco",
+        "price":36.49,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Cheese Doritos\u00ae Locos Taco Supreme\u00ae",
+        "price":46.84,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco \u2013 Beef",
+        "price":47.03,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco \u2013 Chicken",
+        "price":33.37,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco Supreme\u00ae",
+        "price":56.87,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco \u2013 Beef",
+        "price":53.61,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco \u2013 Chicken",
+        "price":48.93,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Bean Burrito (V)",
+        "price":31.78,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Beefy 5-Layer Burrito",
+        "price":54.43,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Burrito Supreme\u00ae \u2013 Beef",
+        "price":38.35,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Burrito Supreme\u00ae \u2013 Chicken",
+        "price":49.59,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Burrito Supreme\u00ae \u2013 Steak",
+        "price":34.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chili Cheese Burrito (regional)",
+        "price":55.4,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesarito \u2013 Beef",
+        "price":56.83,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesarito \u2013 Chicken",
+        "price":46.33,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesarito \u2013 Steak",
+        "price":42.07,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chips and Nacho Cheese Sauce (V)",
+        "price":40.21,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Fries (V) (New)",
+        "price":48.77,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Fries BellGrande\u00ae (New)",
+        "price":33.48,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nachos BellGrande\u00ae \u2013 Beef",
+        "price":42.8,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nachos BellGrande\u00ae \u2013 Chicken",
+        "price":51.55,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nachos BellGrande\u00ae \u2013 Steak",
+        "price":56.85,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Beef Quesarito",
+        "price":48.95,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Quesarito (V)",
+        "price":33.07,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesadilla \u2013 Cheese (V)",
+        "price":34.7,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesadilla \u2013 Chicken",
+        "price":44.25,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesadilla \u2013 Steak",
+        "price":35.98,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Bacon Club Chalupa \u2013 Specialties",
+        "price":50.27,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Chalupa \u2013 Specialties",
+        "price":47.23,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Crunchwrap Supreme \u2013 Specialties",
+        "price":45.8,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Quesarito \u2013 Specialties",
+        "price":31.44,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chalupa Supreme\u00ae \u2013 Specialties",
+        "price":44.42,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Gordita Crunch \u2013 Specialties",
+        "price":55.4,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Roll Up \u2013 Specialties",
+        "price":33.49,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Crunchwrap Supreme\u00ae \u2013 Specialties",
+        "price":34.07,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Crunchy Taco \u2013 Specialties",
+        "price":39.97,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nacho Cheese Doritos\u00ae Locos Taco \u2013 Specialties",
+        "price":51.68,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Nachos BellGrande\u00ae \u2013 Specialties",
+        "price":46.88,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Power Menu Bowl \u2013 Specialties",
+        "price":45.32,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesadilla \u2013 Specialties",
+        "price":33.75,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Quesarito \u2013 Specialties",
+        "price":46.96,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco \u2013 Specialties",
+        "price":41.68,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Soft Taco Supreme \u2013 Specialties",
+        "price":42.74,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Veggie Power Menu Bowl \u2013 Specialties",
+        "price":31.19,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Beans & Rice (V)",
+        "price":49.73,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Beans (V)",
+        "price":55.57,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (2 Pk) (V)",
+        "price":59.4,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (12 Pk \u2013 Serves 4) (V)",
+        "price":53.42,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnamon Twists (V)",
+        "price":56.93,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diablo Sauce Packet (V)",
+        "price":43.65,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Fire Sauce Packet (V)",
+        "price":31.48,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hot Sauce Packet (V)",
+        "price":48.09,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mild Sauce Packet (V)",
+        "price":54.55,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Blue Raspberry Freeze\u2122 (16 oz) (New)",
+        "price":31.46,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Blue Raspberry Freeze\u2122 (20 oz) (New)",
+        "price":59.63,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Dragon Fruit Freeze (16 oz)",
+        "price":39.88,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Dragon Fruit Freeze (20 oz)",
+        "price":46.55,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Lowfat Milk \u2013 CA (Regional)",
+        "price":40.43,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Lowfat Milk \u2013 Federal (Regional)",
+        "price":36.51,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Midnight Berry Freeze\u2122 (16 oz) (New)",
+        "price":35.24,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Midnight Berry Freeze\u2122 (20 oz) (New)",
+        "price":51.03,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast Freeze\u2122 (16 oz)",
+        "price":51.29,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast Freeze\u2122 (20 oz)",
+        "price":37.44,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Orange Juice",
+        "price":42.61,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Premium Hot Coffee",
+        "price":42.22,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Regular Iced Coffee",
+        "price":37.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Water",
+        "price":33.67,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Wild Strawberry Freeze\u2122 (16 oz)",
+        "price":52.95,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Wild Strawberry Freeze\u2122 (20 oz)",
+        "price":51.25,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Beef Burrito \u2013 Value Menu",
+        "price":48.97,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Bean & Rice Burrito \u2013 Value Menu",
+        "price":43.39,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Roll Up \u2013 Value Menu",
+        "price":59.09,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chicken Chipotle Melt \u2013 Value Menu",
+        "price":30.51,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chips and Nacho Cheese Sauce \u2013 Value Menu",
+        "price":59.86,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnamon Twists \u2013 Value Menu",
+        "price":43.59,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Loaded Nacho Taco \u2013 Value Menu",
+        "price":54.51,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Bean Burrito",
+        "price":59.33,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Chalupa",
+        "price":38.9,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Crunchwrap Supreme",
+        "price":35.63,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Bean Quesarito",
+        "price":50.79,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Black Beans & Rice",
+        "price":36.62,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheese Quesadilla",
+        "price":48.82,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Bean & Rice Burrito",
+        "price":34.85,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Roll Up",
+        "price":41.46,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Chips and Nacho Cheese Sauce",
+        "price":36.37,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (2 Pack)",
+        "price":34.81,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (12 Pack \u2013 Serves 4)",
+        "price":38.55,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnamon Twists",
+        "price":53.0,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hash Brown",
+        "price":38.67,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Power Menu Bowl \u2013 Veggie",
+        "price":48.7,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Power Menu Bowl \u2013 Chicken",
+        "price":41.08,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Power Menu Bowl \u2013 Steak",
+        "price":56.89,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Power Menu Bowl \u2013 Veggie (V)",
+        "price":56.75,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Breakfast Crunchwrap \u2013 Bacon",
+        "price":39.06,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Breakfast Crunchwrap \u2013 Sausage",
+        "price":41.43,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Breakfast Crunchwrap \u2013 Steak",
+        "price":36.25,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Breakfast Salsa Packet (V)",
+        "price":36.48,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Toasted Breakfast Burrito \u2013 Bacon",
+        "price":37.24,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Toasted Breakfast Burrito \u2013 Fiesta Potato (V)",
+        "price":51.68,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cheesy Toasted Breakfast Burrito \u2013 Sausage",
+        "price":46.4,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (2 Pack) (V)",
+        "price":56.53,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Cinnabon\u00ae Delights\u2122 (12 Pack \u2013 Serves 4) (V)",
+        "price":34.16,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Grande Toasted Breakfast Burrito \u2013 Bacon",
+        "price":38.53,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Grande Toasted Breakfast Burrito \u2013 Sausage",
+        "price":58.95,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Grande Toasted Breakfast Burrito \u2013 Steak",
+        "price":55.6,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hash Brown (V)",
+        "price":37.48,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hash Brown Toasted Breakfast Burrito \u2013 Bacon",
+        "price":49.85,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hash Brown Toasted Breakfast Burrito \u2013 Sausage",
+        "price":37.02,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Hash Brown Toasted Breakfast Burrito \u2013 Steak",
+        "price":58.65,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"7-Up (16 fl oz)",
+        "price":44.17,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Mango Iced Tea (16 fl oz)",
+        "price":44.74,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Unsweetened No Lemon Iced Tea (16 fl oz)",
+        "price":57.55,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Dr Pepper\u00ae (16 fl oz)",
+        "price":52.39,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Mtn Dew\u00ae (16 fl oz)",
+        "price":52.7,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Pepsi\u00ae (16 fl oz)",
+        "price":47.11,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Dr Pepper\u00ae (16 fl oz)",
+        "price":31.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"G2 \u2013 Fruit Punch (16 fl oz)",
+        "price":49.94,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae (16 fl oz)",
+        "price":39.52,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast\u2122 (16 fl oz)",
+        "price":47.15,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast Zero Sugar (16 fl oz)",
+        "price":48.91,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Kickstart\u2122 Orange Citrus (16 fl oz)",
+        "price":46.91,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mug\u00ae Root Beer (16 fl oz)",
+        "price":31.19,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae (16 fl oz)",
+        "price":56.86,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Wild Cherry (16 fl oz)",
+        "price":41.49,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Zero Sugar (16 fl oz)",
+        "price":35.36,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Sierra Mist\u00ae (16 fl oz)",
+        "price":52.82,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Tropicana\u00ae Pink Lemonade (16 fl oz)",
+        "price":59.19,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"7-Up (20 fl oz)",
+        "price":54.2,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Mango Iced Tea (20 fl oz)",
+        "price":52.35,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Unsweetened No Lemon Iced Tea (20 fl oz)",
+        "price":48.62,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Dr Pepper\u00ae (20 fl oz)",
+        "price":55.79,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Mtn Dew\u00ae (20 fl oz)",
+        "price":36.93,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Pepsi\u00ae (20 fl oz)",
+        "price":38.53,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Dr Pepper\u00ae (20 fl oz)",
+        "price":45.36,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"G2 \u2013 Fruit Punch (20 fl oz)",
+        "price":49.72,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae (20 fl oz)",
+        "price":44.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast\u2122 (20 fl oz)",
+        "price":43.43,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast Zero Sugar (20 fl oz)",
+        "price":37.31,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Kickstart\u2122 Orange Citrus (20 fl oz)",
+        "price":59.6,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mug\u00ae Root Beer (20 fl oz)",
+        "price":50.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae (20 fl oz)",
+        "price":59.17,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Wild Cherry (20 fl oz)",
+        "price":52.42,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Zero Sugar (20 fl oz)",
+        "price":42.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Sierra Mist\u00ae (20 fl oz)",
+        "price":32.23,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Tropicana\u00ae Pink Lemonade (20 fl oz)",
+        "price":39.28,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"\u00a0",
+        "price":54.09,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"FOUNTAIN BEVERAGES (30 OZ)",
+        "price":40.79,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"7-Up (30 fl oz)",
+        "price":54.64,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Mango Iced Tea (30 fl oz)",
+        "price":48.13,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Brisk\u00ae Unsweetened No Lemon Iced Tea (30 fl oz)",
+        "price":50.95,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Dr Pepper\u00ae (30 fl oz)",
+        "price":44.67,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Mtn Dew\u00ae (30 fl oz)",
+        "price":46.17,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Diet Pepsi\u00ae (30 fl oz)",
+        "price":30.98,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Dr Pepper\u00ae (30 fl oz)",
+        "price":31.51,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"G2 \u2013 Fruit Punch (30 fl oz)",
+        "price":57.5,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae (30 fl oz)",
+        "price":43.31,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast\u2122 (30 fl oz)",
+        "price":38.43,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Baja Blast Zero Sugar (30 fl oz)",
+        "price":56.26,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mtn Dew\u00ae Kickstart\u2122 Orange Citrus (30 fl oz)",
+        "price":49.44,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Mug\u00ae Root Beer (30 fl oz)",
+        "price":53.63,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae (30 fl oz)",
+        "price":31.95,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Wild Cherry (30 fl oz)",
+        "price":35.42,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Pepsi\u00ae Zero Sugar (30 fl oz)",
+        "price":42.97,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Sierra Mist\u00ae (30 fl oz)",
+        "price":41.74,
+        "description":""
+    },
+    {
+        "Company":"Taco Bell",
+        "Item":"Tropicana\u00ae Pink Lemonade (30 fl oz)",
+        "price":35.25,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Detroit Double Cheesy Pizza Slice",
+        "price":50.47,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Detroit Double Pepperoni Pizza Slice",
+        "price":50.57,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Detroit Meaty Pizza Slice",
+        "price":48.72,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Detroit Supremo Pizza Slice",
+        "price":36.01,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Backyard BBQ Chicken Personal Pan",
+        "price":46.47,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Backyard BBQ Chicken Medium",
+        "price":30.38,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Backyard BBQ Chicken Large",
+        "price":35.73,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Beyond Meat\u00ae Pepperoni Medium",
+        "price":39.49,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Beyond Meat\u00ae Pepperoni Large",
+        "price":54.67,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Buffalo Chicken Personal Pan",
+        "price":58.54,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Buffalo Chicken Medium",
+        "price":50.28,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Buffalo Chicken Large",
+        "price":46.69,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Cheese Personal Pan",
+        "price":52.91,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Cheese Medium",
+        "price":47.81,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Cheese Large",
+        "price":47.36,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Chicken Bacon Parmesan Personal Pan",
+        "price":37.19,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Chicken Bacon Parmesan Medium",
+        "price":37.03,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Chicken Bacon Parmesan Large",
+        "price":41.19,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Hawaiian Chicken Personal Pan",
+        "price":57.93,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Hawaiian Chicken Medium",
+        "price":40.01,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Hawaiian Chicken Large",
+        "price":39.01,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Meat Lover\u2019s\u00ae Personal Pan",
+        "price":50.78,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Meat Lover\u2019s\u00ae Medium",
+        "price":50.59,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Meat Lover\u2019s\u00ae Large",
+        "price":53.33,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Personal Pan",
+        "price":31.18,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Medium",
+        "price":41.76,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Large",
+        "price":37.23,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Personal Pan",
+        "price":56.45,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "price":46.75,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Large",
+        "price":39.21,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Supreme Personal Pan",
+        "price":34.33,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Supreme Medium",
+        "price":43.27,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Supreme Large",
+        "price":40.62,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Personal Pan",
+        "price":43.81,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "price":41.82,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "price":48.5,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Veggie Lover\u2019s\u00ae Personal Pan",
+        "price":51.29,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Veggie Lover\u2019s\u00ae Medium",
+        "price":36.3,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Pan Pizza Slices Veggie Lover\u2019s\u00ae Large",
+        "price":40.81,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Backyard BBQ Chicken Small",
+        "price":48.26,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Backyard BBQ Chicken Medium",
+        "price":46.59,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Backyard BBQ Chicken Large",
+        "price":38.85,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Beyond Meat\u00ae Pepperoni Medium",
+        "price":55.31,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Beyond Meat\u00ae Pepperoni Large",
+        "price":38.28,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices  Buffalo Chicken Small",
+        "price":44.05,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices  Buffalo Chicken Medium",
+        "price":31.22,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices  Buffalo Chicken Large",
+        "price":38.78,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Cheese Small",
+        "price":54.26,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Cheese Medium",
+        "price":44.52,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Cheese Large",
+        "price":48.18,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Chicken Bacon Parmesan Small",
+        "price":54.95,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Chicken Bacon Parmesan Medium",
+        "price":35.43,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Chicken Bacon Parmesan Large",
+        "price":42.74,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Hawaiian Chicken Small",
+        "price":41.79,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Hawaiian Chicken Medium",
+        "price":49.53,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Hawaiian Chicken Large",
+        "price":55.19,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Meat Lover\u2019s\u00ae Small",
+        "price":56.32,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Meat Lover\u2019s\u00ae Medium",
+        "price":32.91,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Meat Lover\u2019s\u00ae Large",
+        "price":33.5,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Small",
+        "price":59.57,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Medium",
+        "price":57.83,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Large",
+        "price":57.35,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Small",
+        "price":54.23,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "price":49.75,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Large",
+        "price":46.74,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Supreme Small",
+        "price":58.02,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Supreme Medium",
+        "price":39.17,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Supreme Large",
+        "price":57.55,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Small",
+        "price":47.14,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "price":45.71,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "price":45.22,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Veggie Lover\u2019s\u00ae Small",
+        "price":35.68,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Veggie Lover\u2019s\u00ae Medium",
+        "price":49.04,
+        "description":""
+    },
+    {
+        "Company":"Pizza Hut",
+        "Item":"Hand Tossed Slices Veggie Lover\u2019s\u00ae Large",
+        "price":55.18,
+        "description":""
+    }
+]
